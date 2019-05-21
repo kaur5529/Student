@@ -12,8 +12,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-    private int sID;
-
+    private int ID;
+    //names
     /**
      * Get the value of name
      *
